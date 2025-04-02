@@ -28,5 +28,4 @@ Finally, `analysis.R` takes preprocessed output from the targets pipeline for do
 
 ## Data availability
 
-To learn more about the project data set and its availability, please send an email to ANON at [ANON@DOMAIN.COM](mailto:ANON@DOMAIN.COM). 
-
+To learn more about the project data set and its availability, please send an email to Conrad at conborchers@gmail.com. 
